@@ -9,8 +9,6 @@
 </div>
 ![](figs/fig1.jpg)
 
-![](figs/Backbone.png)
-
 ## :mega: News
 - **2023.09.29**: Arxiv version of the paper are available now.
 
