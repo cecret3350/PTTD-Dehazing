@@ -7,7 +7,7 @@
         <a href="https://arxiv.org/abs/2309.17389" target='_blank'>[arXiv]</a> 
 	</h4>
 </div>
-![](figs/fig1.png)
+![](figs/fig1.jpg)
 
 ![](figs/Backbone.png)
 
