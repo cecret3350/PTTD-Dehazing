@@ -9,6 +9,8 @@
 </div>
 <img src="figs/fig1.png" style="zoom:48%;" />
 
+<img src="figs/Backbone.png" style="zoom:48%;" />
+
 ## :mega: News
 - **2023.09.29**: Arxiv version of the paper are available now.
 
