@@ -7,9 +7,9 @@
         <a href="https://arxiv.org/abs/2309.17389" target='_blank'>[arXiv]</a> 
 	</h4>
 </div>
-<img src="figs/fig1.png" style="zoom:48%;" />
+<img src="figs/fig1.png" style="zoom:70%;" />
 
-<img src="figs/Backbone.png" style="zoom:48%;" />
+<img src="figs/backbone.png" style="zoom:41.5%;" />
 
 ## :mega: News
 - **2023.09.29**: Arxiv version of the paper are available now.
