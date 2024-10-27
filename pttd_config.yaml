@@ -1,0 +1,5 @@
+RIDCP:
+  AECRNet:
+    mean: min
+    std: max
+    p: 2
